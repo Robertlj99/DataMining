@@ -1,0 +1,97 @@
+Data Mining Midterm Review:
+
+------------------------------------------------------------------------------------------------
+
+-ML Models-
+
+Two main types:
+
+-Supervised models, two sub types:
+
+	-Classification, makes discrete predictions (aka labels a target feature)
+
+	-Regression, makes contiuous predictions (aka price predictions)
+
+-Unsupervised learning
+
+	-Clustering, K-Nearest Neighboor (KNN)
+
+Biggest difference
+
+-Supervised models have a clear goal and generally implement explicit rules, whereas unsupervised models do not have such clear goals and instead aim to learn the rules implicitly through the data.
+
+----------------------------------------------------------------------------------------------------
+
+-PDF-
+
+Probability Density Functions
+
+-Example, Normal Distribution
+
+
+-Boxplot-
+
+Five Values:
+
+-Minimum (Min), 1st Quartile (Q1), Median (M), 3rd Quartile (Q3)
+
+--------------------------------------------------------------------
+
+-Histograms-
+
+Shows distribution of values
+
+-Two histograms may look nothing alike but have very similar boxplots
+
+-----------------------------------------------------------------------
+
+-QQ Plot-
+
+Used to check the distribution of your data
+
+------------------------------------------------------------------------
+
+-SPOT Vs. DSPOT-
+
+Threshold based, univariate anomaly value detection outlier algorithms
+
+-SPOT
+
+	-Used if data distribution is stable
+
+-DSPOT
+
+	-Used of data distribution is not stable
+
+-------------------------------------------------------------------------
+
+-Neural Networks-
+
+Training
+
+-Gradient Decent
+
+-Backpropagation
+
+Epoch vs Batch vs Iteration
+
+---------------------------------------------------------------------------
+
+-Mad-Gan-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
